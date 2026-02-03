@@ -1,0 +1,6 @@
+{
+    "clangd.enableCodeCompletion": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "javascript.suggest.autoImports": false,
+    "editor.inlineSuggest.enabled": false
+}
